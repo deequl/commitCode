@@ -1,4 +1,4 @@
-# commitCode
+# How to push code to GitHub
 Quick guide about commit code to a Github repository from command line.
 
 
