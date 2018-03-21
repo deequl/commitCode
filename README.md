@@ -12,7 +12,7 @@ git init
 ```
 git add .
 ```
-to check which files will be uploaded, use (red ones will not upload):
+to check which files will be uploaded, use:
 ```
 git status
 ```
