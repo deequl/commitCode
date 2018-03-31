@@ -30,13 +30,12 @@ git push -u origin master
 ```
 
 ### ...push an existing repository
-first you shoud download the content of the repository
+first you shoud download the content of the repository (if you already get it, skip this step)
 ```
 git pull .
-```
-```
 git remote add origin https://github.com/deequl/commitCode
 ```
+Time to push
 ```
 git push -u origin master
 ```
